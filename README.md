@@ -1,3 +1,3 @@
 ## My resume 
 
-##Technologies used - HTML,CSS,JS
+Technologies used - HTML,CSS,JS
